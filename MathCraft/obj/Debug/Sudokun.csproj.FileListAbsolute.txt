@@ -1,0 +1,12 @@
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\bin\Debug\Sudokun.exe.config
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\bin\Debug\Sudokun.exe
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\bin\Debug\Sudokun.pdb
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.BestScoresForm.resources
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.Form1.resources
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.HelpForm.resources
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.Properties.Resources.resources
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.Winner.resources
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.csproj.GenerateResource.Cache
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.exe
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.pdb
+F:\Reinier\Programación\POO\Projects\C#\Sudokun\MathCraft\obj\Debug\Sudokun.csprojResolveAssemblyReference.cache

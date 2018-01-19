@@ -1,0 +1,9 @@
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\bin\Debug\MathCraft.exe
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\bin\Debug\MathCraft.pdb
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\bin\Debug\SudoTable.pdb
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\ResolveAssemblyReference.cache
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\MathCraft.Form1.resources
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\MathCraft.Properties.Resources.resources
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\MathCraft.csproj.GenerateResource.Cache
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\MathCraft.exe
+D:\Reinier\Programación\POO\C#\Projects\MathCraft\MathCraft\obj\Debug\MathCraft.pdb
